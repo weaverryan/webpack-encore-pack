@@ -1,0 +1,6 @@
+{
+    "name": "symfony/webpack-encore-pack",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A pack for Symfony Encore"
+}
